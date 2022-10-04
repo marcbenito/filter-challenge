@@ -1,0 +1,21 @@
+{
+  "name": "clicks",
+  "version": "1.0.0",
+  "description": "Asessment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "solution": "node index.js"
+  },
+  "author": "Marc Benito",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jest": "^27.0.4",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.0.1",
+    "prettier-eslint": "^15.0.1"
+  }
+}
